@@ -40,4 +40,4 @@ def line_graph(x, y):
     
     pass
 
-line_graph([1, 2, 3, 4, 5], [2, 4, 6, 8, 10])
+# line_graph([1, 2, 3, 4, 5], [2, 4, 6, 8, 10])

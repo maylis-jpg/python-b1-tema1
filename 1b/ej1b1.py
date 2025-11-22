@@ -30,4 +30,4 @@ def obtain_max(list_numbers):
     return max
     pass
 
-print(obtain_max([1, 45, 87, 21, 0, 23, 28]))
+# print(obtain_max([1, 45, 87, 21, 0, 23, 28]))
