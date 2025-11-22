@@ -1,4 +1,4 @@
-'''
+"""
 Enunciado:
 Crea una función 'sum_odd_numbers(list_numbers)' que reciba como 
 parámetro una lista de números positivos enteros llamada 'list_numbers'
@@ -18,8 +18,7 @@ Ejemplo:
 
     Salida:
     30
-
-'''
+"""
 
 def sum_odd_numbers(list_numbers):
     # Validación list_numebers, si no numerico o menor cero = ValueError('mensage')
@@ -41,4 +40,4 @@ def sum_odd_numbers(list_numbers):
     return result 
     pass
 
-print(sum_odd_numbers([1, 2, 3, 4, 5, 10, 21, 100]))
+# print(sum_odd_numbers([1, 2, 3, 4, 5, 10, 21, 100]))
